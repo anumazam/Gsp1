@@ -1,0 +1,11 @@
+Data Set,"GSP1-WT-GDP","GSP1-WT-GTP (control)"
+HDX reaction details
+HDX time course (sec),"30, 60, 900, 1800, 3600, 14400","30, 60, 900, 3600, 7200, 14400"
+HDX control samples,none,none
+Back-exchange (mean / IQR over entire project),unknown
+# of peptides,90,74
+Sequence coverage,100.00%,96.36%
+Average peptide length / Redundancy,13.79 / 5.64,13.77 / 4.63
+Replicates,1,1
+Repeatability (avg. stddev of #D),n/a,n/a
+Significant differences in HDX (delta HDX > X D - 95% CI),n/a,n/a
